@@ -34,7 +34,7 @@
 ## Структура репозиторію
 
 ```text
-practical-2-3-oop-vehicle-fleet/
+2-3-OOP/
 ├── VehicleFleet.md   — цей файл
 └── ROADMAP.md  — покроковий план з поясненнями
 ```
