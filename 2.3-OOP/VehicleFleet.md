@@ -35,7 +35,7 @@
 
 ```text
 practical-2-3-oop-vehicle-fleet/
-├── README.md   — цей файл
+├── VehicleFleet.md   — цей файл
 └── ROADMAP.md  — покроковий план з поясненнями
 ```
 
